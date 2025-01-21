@@ -364,6 +364,7 @@
 "Assets/Scripts/MyOperators.cs"
 "Assets/Scripts/MyTypes.cs"
 "Assets/Scripts/MyVariables.cs"
+"Assets/Scripts/NumberGuesser.cs"
 "Assets/Scripts/TipTotal.cs"
 -langversion:9.0
 
