@@ -362,6 +362,7 @@
 "Assets/Scripts/MoreOperators.cs"
 "Assets/Scripts/MyNull.cs"
 "Assets/Scripts/MyOperators.cs"
+"Assets/Scripts/MyTernery.cs"
 "Assets/Scripts/MyTypes.cs"
 "Assets/Scripts/MyVariables.cs"
 "Assets/Scripts/NumberGuesser.cs"
