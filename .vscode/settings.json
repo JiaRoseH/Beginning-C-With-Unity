@@ -51,6 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Beginning-C-With-Unity.sln",
+    "dotnet.defaultSolution": "Beginning C_ With Unity.sln",
     "git.ignoreLimitWarning": true
 }
